@@ -1,0 +1,29 @@
+---
+course_id: wgs-s10-history-of-women-in-science-and-engineering-fall-2017
+layout: course_section
+menu:
+  leftnav:
+    identifier: 2f9ce0b08e1801185be3a6f579526f40
+    name: Lecture Summaries
+    weight: 30
+title: Lecture Summaries
+type: course
+uid: 2f9ce0b08e1801185be3a6f579526f40
+
+---
+
+| WEEK # | TOPICS | SUMMARY |
+| --- | --- | --- |
+| 1 | The Matilda Effect |  {{< br >}}{{< br >}} Course introduction, instructor introduction, student introductions. {{< br >}}{{< br >}} Who should be remembered in science history? Why are women’s histories so often hidden or underplayed? Who are some early pioneering women in science, and how did they help to lay foundations in their respective fields {{< br >}}{{< br >}}  |
+| 2 | Intersectionalities |  {{< br >}}{{< br >}} How do race, ethnicity, and regionalism affect women practicing in science and engineering? What are some examples of how women have dealt with the "double bind"? How can we remove/reduce biases when discussing STEM endeavors and their histories? {{< br >}}{{< br >}}  |
+| 3 | Pioneers & Laurels | Who are some pioneering—and award-winning—STEM women that every historian of science should know? How can we celebrate Marie Curie’s accomplishments while avoiding pitfalls of the “hero effect”? How do awards recognize and validate women in the STEM fields? What problems/inequities exist in the way female scientists and engineers are and have been honored? {{< br >}}{{< br >}} Guest speaker: [Jen Myronuk](http://filmmakerscollab.org/members/profile/jen-myronuk/), filmmaker, will present her film _[Humanity Needs Dreamers: A Visit with Marie Curie](http://humanityneedsdreamers.org/)_.  {{< br >}}{{< br >}}  |
+| 4 | Sun Sisters: Field trip to the Harvard Observatory |  {{< br >}}{{< br >}} In what key ways have women contributed to the astronomical sciences? How have women in Massachusetts—and Cambridge in particular—played an outsized role in 19th and early 20th century astronomy? What is the "harem effect"?  {{< br >}}{{< br >}} Guest speakers: {{< br >}}{{< br >}} Lindsay Smith, Curator of the Astronomical Photographic Plate Collection at the [Harvard College Observatory](https://www.cfa.harvard.edu/hco) {{< br >}}{{< br >}} [Dava Sobel](http://www.davasobel.com/), author, who will discuss her book, _[The Glass Universe: How the Ladies of the Harvard Observatory Took the Measure of the Stars](https://www.penguinrandomhouse.com/books/315726/the-glass-universe-by-dava-sobel/9780143111344/)_.  {{< br >}}{{< br >}} Field trip to the Harvard Observatory {{< br >}}{{< br >}}  |
+| 5 | Engineeresses | How is the culture of engineering different from that of science? How have women affected the engineering profession and its role in society? Who are some notable women in the development of engineering, and how have their ranks expanded into the many disciplines we see today? How have recent educational trends led to increased visibility of engineering as a profession for women? |
+| 6 | Women of NASA and the Manhattan Project | How have women’s roles in STEM fields changed in times of political crisis (WWII, Space Race, etc.)? What happened after the crises abated? What were early attitudes toward women at NASA? How have women become NASA leaders in the past 30 years? How is NASA recruiting and promoting women today? |
+| 7 | Midterm Presentation | Students will present their midterm essays to the class with discussions and lightning introductions. |
+| 8 | Women in Computing | How have women contributed to the development of computer technologies? What factors led to the rise and fall of women's participation in tech in the late 20th century? |
+| 9 | STEM Women in Media and Consumer Products | How are women in science and engineering written about and portrayed in popular culture? How have children's toys and media helped and hindered the encouragement of girls and women in the STEM fields? |
+| 10 | STEM Women in Wikipedia/Edit-a-thon |  {{< br >}}{{< br >}} What is the representation of women in Wikipedia, both on the pages and in the editorship? How is Wikipedia like a microcosm of the larger tech world in terms of women’s inclusion? Why is representation on Wikipedia so important? What are some efforts attempting to close the gaps in STEM fields? {{< br >}}{{< br >}} Guest speaker: [Phoebe Ayers](http://phoebeayers.info/), MIT librarian, will answer questions about Wikipedia and assist in the crafting of new articles.  {{< br >}}{{< br >}}  |
+| 11 |  {{< br >}}{{< br >}} Mens et Manus {{< br >}}{{< br >}} Guest Speaker Debbie Douglas {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Who are some of the most notable/influential women to have taught, researched, and studied at MIT? {{< br >}}{{< br >}} Guest Speaker: Debbie Douglas, Director of Collections & Curator, Science & Technology at the [MIT Muesum](https://mitmuseum.mit.edu/) {{< br >}}{{< br >}} Field trip to the MIT Museum {{< br >}}{{< br >}}  |
+| 12 |  {{< br >}}{{< br >}} Then and Now {{< br >}}{{< br >}} Guest Speaker Prof. Sheila Widnall {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} How have scientific and engineering professions changed for women in the past century? Where do problems remain? What can academia and industry improve on in terms of diversity and inclusion? How have events such as Ada Lovelace Day and the Intl. Day of Women in STEM affected public perceptions of women in the STEM fields? {{< br >}}{{< br >}} Guest speaker: [Sheila Widnall](http://aeroastro.mit.edu/faculty-research/faculty-list/sheila-widnall), MIT Institute Professor, Department of Aeronautics and Astronautics {{< br >}}{{< br >}}  |
+| 13 | Class Presentations | Students will present their final projects to the class.
